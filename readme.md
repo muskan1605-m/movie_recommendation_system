@@ -1,4 +1,4 @@
-# Movie Recommendation System – Baseline Models
+# Movie Recommendation System
 
 This project implements multiple baseline recommender system approaches using the MovieLens 100k dataset.  
 The objective is to understand data preparation for recommender systems and implement traditional recommendation techniques.
